@@ -56,6 +56,12 @@ h6,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Montserrat', sans-serif;
 }
+.btn {
+  border-radius: 1.6em;
+}
+.mbr-subscribe .btn {
+  border-radius: 1.6em !important;
+}
 .btn-sm,
 .lead a,
 .lead blockquote,
@@ -518,9 +524,6 @@ h6,
   color: #000000;
   font-size: 19px;
 }
-#content7-8 P {
-  color: #000000;
-}
 #contacts1-9 P {
   color: #000000;
 }
@@ -934,6 +937,9 @@ h6,
 #menu-k .link[aria-expanded="true"],
 #menu-k .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#form1-u .form-control-label {
+  color: #232323;
 }
 #contacts1-l P {
   color: #000000;
