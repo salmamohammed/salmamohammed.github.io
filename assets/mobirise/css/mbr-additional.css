@@ -1150,16 +1150,6 @@ h6,
 #menu-w .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header3-z .mbr-section-title,
-#header3-z .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-z H3 {
-  font-size: 36px;
-}
-#header3-z SMALL {
-  color: #000000;
-}
 #header1-14 .mbr-section-lead {
   font-family: 'Slabo 27px', serif;
 }
