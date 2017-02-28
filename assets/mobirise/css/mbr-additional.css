@@ -1080,12 +1080,10 @@ h6,
   color: #000000;
   font-size: 19px;
 }
-#contacts1-9 P {
-  color: #000000;
+#content6-1d DIV {
+  font-size: 20px;
 }
-#contacts1-9 STRONG {
-  color: #000000;
-}
+
 
 
 #menu-w .hide-buttons .nav-btn {
@@ -1157,7 +1155,8 @@ h6,
 #msg-box8-19 p {
   color: #fff;
 }
-#header3-17 .mbr-section-title,
-#header3-17 .mbr-section-subtitle {
-  text-align: center;
+#msg-box8-19 .lead P {
+  color: #000000;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 48px;
 }
